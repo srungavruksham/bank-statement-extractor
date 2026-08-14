@@ -4,7 +4,7 @@
 
 I want to be honest — my Python skills are not great yet. I got stuck a lot while building this and used AI to help me.
 
-But I didn't just copy and paste. I understand how everything connects, I debugged the issues myself, and I know exactly where to look when something breaks.
+But I didn't just copy and paste. I did all the wiring myself — every file connects to the next because I understood what needed to go where. I understand how each part works, I debugged the issues myself, and I know exactly where to look when something breaks.
 
 ---
 
