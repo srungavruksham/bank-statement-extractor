@@ -51,7 +51,7 @@ You need Python 3 and an API key.
 
    ```
    GEMINI_API_KEY = your-key-here
-   LLM_MODEL = gemini/gemini-2.5-flash
+   LLM_MODEL = gemini/gemini-3.5-flash
    ```
 
    The key is never written into the code. It is only read from `.env`.
@@ -59,7 +59,7 @@ You need Python 3 and an API key.
 2. Install the libraries:
 
    ```powershell
-   pip install streamlit crewai PyPDF2 python-dotenv pyyaml
+   pip install streamlit "crewai[google-genai]" PyPDF2 python-dotenv pyyaml
    ```
 
 ## How to add a document
