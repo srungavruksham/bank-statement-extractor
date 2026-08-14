@@ -1,0 +1,9 @@
+# Core dependencies (the packages this project imports directly).
+# Versions are left unpinned. To lock them to what you actually have installed,
+# run:  pip freeze > requirements.txt
+
+streamlit          # the web UI (app.py); also pulls in pandas for tables
+crewai[google-genai]             # the multi-agent extraction / merge / reflection agents
+PyPDF2             # reads text out of the PDF statements (utils.py)
+python-dotenv      # loads GEMINI_API_KEY / LLM_MODEL from the .env file
+PyYAML             # reads the versioned prompt files in prompts/

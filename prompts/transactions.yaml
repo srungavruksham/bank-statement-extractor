@@ -1,0 +1,33 @@
+versions:
+    - version: 1.0
+      description: Extracts transaction details from bank statement
+      template: |
+        Extract transaction details from bank statement.
+
+        Return only valid JSON:
+        {{
+          "transactions": [
+            {{
+              "date": "2026-06-01",
+              "description": "string",
+              "type": "string",
+              "reference": "string",
+              "balance": 0.00,
+              "paid_in": 0.00,
+              "paid_out": 0.00
+            }}
+          ]
+        }}
+
+        if paid_in or paid_out is not present, use 0.00
+        for rest of fields if you cannot find a value, use null.
+        If the document shows dates in a different format (e.g. DD/MM/YYYY, "01 Jun 2026",
+        or "June 1, 2026"), convert them to YYYY-MM-DD before returning them. Do not
+        copy the document's original date format.
+        Do not Hallucinate or make up values
+
+        {memory_context}
+
+        Document: {document_text}
+      changelog: |
+        - 1.0: Initial version of the transactions prompt.

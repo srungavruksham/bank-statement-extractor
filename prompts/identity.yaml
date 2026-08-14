@@ -1,0 +1,19 @@
+versions:
+    - version: 1.0
+      description: Extracts customer name and mailing address
+      template: |
+        Extract the customer's name and mailing address from bank statement.
+
+        Return only valid JSON:
+        {{
+          "customer_name": "string",
+          "mailing_address": "string"
+        }}
+        If you cannot find a value, use null.
+        Do not Hallucinate or make up values
+
+        {memory_context}
+
+        Document: {document_text}
+      changelog: |
+        - 1.0: Initial version of the identity prompt.

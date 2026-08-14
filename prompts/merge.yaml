@@ -1,0 +1,28 @@
+versions:
+    - version: 1.0
+      description: Merge identity and account details from bank statement into a single JSON object
+      template: |
+        Merge the extracted identity and account details from the bank statement into a single JSON object.
+
+        Return only valid JSON:
+        {{
+          "customer_name": "string",
+          "mailing_address": "string",
+          "account_number": "string",
+          "account_type": "string",
+          "currency": "string",
+          "IBAN": "string",
+          "customer_reference": "string",
+          "opening_balance": 0.00,
+          "closing_balance": 0.00,
+          "statement_period_start": "2026-06-01",
+          "statement_period_end": "2026-06-01",
+          "statement_date": "2026-06-01"
+        }}
+        If a field appears differently in identity and account details, prefer the longer value.
+        please don't touch transaction details, it will be handled by python code later.
+        Do not Hallucinate or make up values 
+        identity: {identity_json}
+        account: {account_json}
+      changelog: |
+        - 1.0: Initial version of the merge prompt.  

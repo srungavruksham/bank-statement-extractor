@@ -1,0 +1,16 @@
+# never commit the API key
+.env
+
+# virtual environment
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# telemetry and memory data (runtime files, not source code)
+telemetry/data/
+memory/data/
+
+# VS Code
+.vscode/

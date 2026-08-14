@@ -1,0 +1,22 @@
+versions:
+    - version: 1.0
+      description: Analyze validation feedback and provide correction rules
+      template: |
+        Analyze the validation feedback and provide correction rules
+
+        Return only valid JSON:
+        {{
+          "mistake_description": "string",
+          "correction_rule": "string",
+          "confidence" : 0.00
+        }}
+        If you cannot find a value, use null.
+        Do not Hallucinate or make up values 
+        Write the correction_rule so it would help someone process a DIFFERENT document from
+        this same source correctly next time — not just a description of this one mistake.
+        For instance, if the validation feedback says "The date was extracted incorrectly," 
+        a good correction_rule would be "This bank writes dates as DD/MM/YYYY, not MM/DD/YYYY — parse accordingly." A bad correction_rule would be "The date was extracted incorrectly."
+        document: {document_text}
+        validation_feedback: {validation_feedback}
+      changelog: |
+        - 1.0: Initial version of the reflection prompt.

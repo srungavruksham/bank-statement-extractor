@@ -1,0 +1,36 @@
+bank_statement_extractor/
+├── .env                      #  env variables 
+├── .gitignore                # keeps .env, __pycache__, .venv  out of git
+├── README.md                 # setup steps + my decision log 
+├── requirements.txt          # the packages need to pip install
+├── assignment.md             #
+├── data/
+│   ├── statements/           # drop Bank statements PDFs here — this is the "allowed dir", nothing reads outside of it
+│   └── approved/             # once a human says "this is right", the final result gets saved here
+│
+├── app.py                    # the Streamlit UI — this is what you run to use the whole thing
+├── pipeline.py               # runs extract → validate → reflect and streams updates back to the UI
+├── crewai_extraction.py      # the 3 parallel extraction agents + the merge agent + the reflection agent
+├── validation.py             # the plain-Python rule checks 
+├── review.py                 # saves a human-approved result into data/approved/
+├── utils.py                  # helpers — PDF text extraction, path safety, JSON cleanup
+│
+├── prompts/
+│   ├── registry.py           # loads a prompt by name and grabs the latest version
+│   ├── identity.yaml         # prompt for agent 1 (customer name / address)
+│   ├── account.yaml          # prompt for agent 2 (account number / balances / dates)
+│   ├── transactions.yaml     # prompt for agent 3 (the transaction table)
+│   ├── merge.yaml            # prompt that merges the 3 agent outputs into one record
+│   └── reflection.yaml       # prompt for the self-critique step when validation fails
+│
+├── memory/
+│   ├── store.py              # read/write logic for both memory tiers
+│   └── data/                 # starts empty — these get created on the first run:
+│       ├── episodic.json     #   every correction gets logged here (short-term)
+│       └── semantic.json     #   rules that repeated twice get promoted here (long-term)
+│
+└── telemetry/
+    ├── tracker.py            # tracks tokens + cost per agent call
+    └── data/                 # calls.json lands here at runtime
+
+https://ai.google.dev/gemini-api/docs/models    # Models available through the Gemini API.    

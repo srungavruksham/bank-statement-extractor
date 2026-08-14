@@ -1,0 +1,29 @@
+versions:
+    - version: 1.0
+      description: Extracts customer's account details
+      template: |
+        Extract customer's account details from bank statement.
+        Return only valid JSON:
+        {{
+          "account_number": "string",
+          "account_type": "string",
+          "currency": "string",
+          "IBAN": "string",
+          "customer_reference": "string",
+          "opening_balance": 0.00,
+          "closing_balance": 0.00,
+          "statement_period_start": "2026-06-01",
+          "statement_period_end": "2026-06-01",
+          "statement_date": "2026-06-01"
+        }}
+        If you cannot find a value, use null.
+        Do not Hallucinate or make up values
+        If the document shows dates in a different format (e.g. DD/MM/YYYY, "01 Jun 2026",
+        or "June 1, 2026"), convert them to YYYY-MM-DD before returning them. Do not
+        copy the document's original date format.
+
+        {memory_context}
+
+        Document: {document_text}
+      changelog: |
+        - 1.0: Initial version of the account prompt.

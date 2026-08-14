@@ -1,0 +1,1953 @@
+{
+    "run_id": "ef66dfd6-3848-4339-8f4d-770cbbd2e79f",
+    "source": "riverside_national_bank",
+    "approved_at": "2026-08-14T11:06:10.225703",
+    "merged_data": {
+        "customer_name": "Ms. Priya Kadam",
+        "mailing_address": "8 Oldmill Terrace, Ashford, RN 44201",
+        "account_number": "9981 5567 0031",
+        "account_type": null,
+        "currency": "USD",
+        "IBAN": "RN44 RIVN 9981 5567 0031 00",
+        "customer_reference": null,
+        "opening_balance": 12500.0,
+        "closing_balance": -3394.91,
+        "statement_period_start": "2026-06-01",
+        "statement_period_end": "2026-06-30",
+        "statement_date": "2026-07-01",
+        "transactions": [
+            {
+                "date": "2026-06-01",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700000",
+                "balance": 12480.68,
+                "paid_in": 0.0,
+                "paid_out": 19.32
+            },
+            {
+                "date": "2026-06-02",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700001",
+                "balance": 12484.82,
+                "paid_in": 4.14,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-06-02",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700002",
+                "balance": 13671.92,
+                "paid_in": 1187.1,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-06-02",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700003",
+                "balance": 13657.51,
+                "paid_in": 0.0,
+                "paid_out": 14.41
+            },
+            {
+                "date": "2026-06-04",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700004",
+                "balance": 13559.41,
+                "paid_in": 0.0,
+                "paid_out": 98.1
+            },
+            {
+                "date": "2026-06-05",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700005",
+                "balance": 12431.63,
+                "paid_in": 0.0,
+                "paid_out": 1127.78
+            },
+            {
+                "date": "2026-06-07",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700006",
+                "balance": 12253.39,
+                "paid_in": 0.0,
+                "paid_out": 178.24
+            },
+            {
+                "date": "2026-06-07",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700007",
+                "balance": 10239.55,
+                "paid_in": 0.0,
+                "paid_out": 2013.84
+            },
+            {
+                "date": "2026-06-08",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700008",
+                "balance": 7992.49,
+                "paid_in": 0.0,
+                "paid_out": 2247.06
+            },
+            {
+                "date": "2026-06-08",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700009",
+                "balance": 7996.62,
+                "paid_in": 4.13,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-06-09",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700010",
+                "balance": 7884.04,
+                "paid_in": 0.0,
+                "paid_out": 112.58
+            },
+            {
+                "date": "2026-06-10",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700011",
+                "balance": 5919.79,
+                "paid_in": 0.0,
+                "paid_out": 1964.25
+            },
+            {
+                "date": "2026-06-11",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700012",
+                "balance": 5900.78,
+                "paid_in": 0.0,
+                "paid_out": 19.01
+            },
+            {
+                "date": "2026-06-13",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700013",
+                "balance": 6693.0,
+                "paid_in": 792.22,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-06-15",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700014",
+                "balance": 6685.96,
+                "paid_in": 0.0,
+                "paid_out": 7.04
+            },
+            {
+                "date": "2026-06-16",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700015",
+                "balance": 6690.41,
+                "paid_in": 4.45,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-06-16",
+                "description": "Standing Order - GYM MEMBERSHIP",
+                "type": "SO",
+                "reference": "SO-700016",
+                "balance": 6640.06,
+                "paid_in": 0.0,
+                "paid_out": 50.35
+            },
+            {
+                "date": "2026-06-16",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700017",
+                "balance": 6630.53,
+                "paid_in": 0.0,
+                "paid_out": 9.53
+            },
+            {
+                "date": "2026-06-16",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700018",
+                "balance": 6624.2,
+                "paid_in": 0.0,
+                "paid_out": 6.33
+            },
+            {
+                "date": "2026-06-16",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700019",
+                "balance": 6606.07,
+                "paid_in": 0.0,
+                "paid_out": 18.13
+            },
+            {
+                "date": "2026-06-17",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700020",
+                "balance": 6610.26,
+                "paid_in": 4.19,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-06-19",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700021",
+                "balance": 6603.34,
+                "paid_in": 0.0,
+                "paid_out": 6.92
+            },
+            {
+                "date": "2026-06-19",
+                "description": "Direct Debit - CLEARWATER UTILITIES",
+                "type": "DD",
+                "reference": "DD-700022",
+                "balance": 6527.67,
+                "paid_in": 0.0,
+                "paid_out": 75.67
+            },
+            {
+                "date": "2026-06-20",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700023",
+                "balance": 6498.44,
+                "paid_in": 0.0,
+                "paid_out": 29.23
+            },
+            {
+                "date": "2026-06-21",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700024",
+                "balance": 6482.28,
+                "paid_in": 0.0,
+                "paid_out": 16.16
+            },
+            {
+                "date": "2026-06-21",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700025",
+                "balance": 6486.36,
+                "paid_in": 4.08,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-06-21",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700026",
+                "balance": 6311.08,
+                "paid_in": 0.0,
+                "paid_out": 175.28
+            },
+            {
+                "date": "2026-06-22",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700027",
+                "balance": 6297.02,
+                "paid_in": 0.0,
+                "paid_out": 14.06
+            },
+            {
+                "date": "2026-06-22",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700028",
+                "balance": 6276.84,
+                "paid_in": 0.0,
+                "paid_out": 20.18
+            },
+            {
+                "date": "2026-06-22",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700029",
+                "balance": 7475.87,
+                "paid_in": 1199.03,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-06-24",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700030",
+                "balance": 7461.37,
+                "paid_in": 0.0,
+                "paid_out": 14.5
+            },
+            {
+                "date": "2026-06-25",
+                "description": "Direct Debit - CLEARWATER UTILITIES",
+                "type": "DD",
+                "reference": "DD-700031",
+                "balance": 7389.34,
+                "paid_in": 0.0,
+                "paid_out": 72.03
+            },
+            {
+                "date": "2026-06-26",
+                "description": "Direct Debit - CLEARWATER UTILITIES",
+                "type": "DD",
+                "reference": "DD-700032",
+                "balance": 7339.13,
+                "paid_in": 0.0,
+                "paid_out": 50.21
+            },
+            {
+                "date": "2026-06-26",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700033",
+                "balance": 7286.9,
+                "paid_in": 0.0,
+                "paid_out": 52.23
+            },
+            {
+                "date": "2026-06-26",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700034",
+                "balance": 7170.08,
+                "paid_in": 0.0,
+                "paid_out": 116.82
+            },
+            {
+                "date": "2026-06-28",
+                "description": "Cheque Deposit",
+                "type": "CHQ",
+                "reference": "CHQ-700035",
+                "balance": 7578.83,
+                "paid_in": 408.75,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-06-29",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700036",
+                "balance": 7993.17,
+                "paid_in": 414.34,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-07-01",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700037",
+                "balance": 7987.19,
+                "paid_in": 0.0,
+                "paid_out": 5.98
+            },
+            {
+                "date": "2026-07-01",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700038",
+                "balance": 7901.8,
+                "paid_in": 0.0,
+                "paid_out": 85.39
+            },
+            {
+                "date": "2026-07-01",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700039",
+                "balance": 7889.44,
+                "paid_in": 0.0,
+                "paid_out": 12.36
+            },
+            {
+                "date": "2026-07-02",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700040",
+                "balance": 7810.41,
+                "paid_in": 0.0,
+                "paid_out": 79.03
+            },
+            {
+                "date": "2026-07-03",
+                "description": "Cheque Deposit",
+                "type": "CHQ",
+                "reference": "CHQ-700041",
+                "balance": 8260.62,
+                "paid_in": 450.21,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-07-03",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700042",
+                "balance": 8252.53,
+                "paid_in": 0.0,
+                "paid_out": 8.09
+            },
+            {
+                "date": "2026-07-05",
+                "description": "Standing Order - GYM MEMBERSHIP",
+                "type": "SO",
+                "reference": "SO-700043",
+                "balance": 8216.06,
+                "paid_in": 0.0,
+                "paid_out": 36.47
+            },
+            {
+                "date": "2026-07-05",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700044",
+                "balance": 6365.71,
+                "paid_in": 0.0,
+                "paid_out": 1850.35
+            },
+            {
+                "date": "2026-07-05",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700045",
+                "balance": 6349.11,
+                "paid_in": 0.0,
+                "paid_out": 16.6
+            },
+            {
+                "date": "2026-07-05",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700046",
+                "balance": 5384.53,
+                "paid_in": 0.0,
+                "paid_out": 964.58
+            },
+            {
+                "date": "2026-07-05",
+                "description": "Standing Order - GYM MEMBERSHIP",
+                "type": "SO",
+                "reference": "SO-700047",
+                "balance": 5344.57,
+                "paid_in": 0.0,
+                "paid_out": 39.96
+            },
+            {
+                "date": "2026-07-05",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700048",
+                "balance": 5220.18,
+                "paid_in": 0.0,
+                "paid_out": 124.39
+            },
+            {
+                "date": "2026-07-07",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700049",
+                "balance": 5214.55,
+                "paid_in": 0.0,
+                "paid_out": 5.63
+            },
+            {
+                "date": "2026-07-08",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700050",
+                "balance": 5126.19,
+                "paid_in": 0.0,
+                "paid_out": 88.36
+            },
+            {
+                "date": "2026-07-08",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700051",
+                "balance": 5130.29,
+                "paid_in": 4.1,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-07-09",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700052",
+                "balance": 5111.94,
+                "paid_in": 0.0,
+                "paid_out": 18.35
+            },
+            {
+                "date": "2026-07-09",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700053",
+                "balance": 5116.17,
+                "paid_in": 4.23,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-07-09",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700054",
+                "balance": 5092.49,
+                "paid_in": 0.0,
+                "paid_out": 23.68
+            },
+            {
+                "date": "2026-07-10",
+                "description": "Direct Debit - CLEARWATER UTILITIES",
+                "type": "DD",
+                "reference": "DD-700055",
+                "balance": 5029.26,
+                "paid_in": 0.0,
+                "paid_out": 63.23
+            },
+            {
+                "date": "2026-07-10",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700056",
+                "balance": 5021.16,
+                "paid_in": 0.0,
+                "paid_out": 8.1
+            },
+            {
+                "date": "2026-07-11",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700057",
+                "balance": 5012.11,
+                "paid_in": 0.0,
+                "paid_out": 9.05
+            },
+            {
+                "date": "2026-07-11",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700058",
+                "balance": 5906.34,
+                "paid_in": 894.23,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-07-13",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700059",
+                "balance": 5894.64,
+                "paid_in": 0.0,
+                "paid_out": 11.7
+            },
+            {
+                "date": "2026-07-15",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700060",
+                "balance": 5890.2,
+                "paid_in": 0.0,
+                "paid_out": 4.44
+            },
+            {
+                "date": "2026-07-15",
+                "description": "Direct Debit - CLEARWATER UTILITIES",
+                "type": "DD",
+                "reference": "DD-700061",
+                "balance": 5801.6,
+                "paid_in": 0.0,
+                "paid_out": 88.6
+            },
+            {
+                "date": "2026-07-16",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700062",
+                "balance": 7104.5,
+                "paid_in": 1302.9,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-07-16",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700063",
+                "balance": 4784.59,
+                "paid_in": 0.0,
+                "paid_out": 2319.91
+            },
+            {
+                "date": "2026-07-17",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700064",
+                "balance": 5999.79,
+                "paid_in": 1215.2,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-07-18",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700065",
+                "balance": 5832.13,
+                "paid_in": 0.0,
+                "paid_out": 167.66
+            },
+            {
+                "date": "2026-07-20",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700066",
+                "balance": 5749.06,
+                "paid_in": 0.0,
+                "paid_out": 83.07
+            },
+            {
+                "date": "2026-07-20",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700067",
+                "balance": 5723.82,
+                "paid_in": 0.0,
+                "paid_out": 25.24
+            },
+            {
+                "date": "2026-07-20",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700068",
+                "balance": 4369.42,
+                "paid_in": 0.0,
+                "paid_out": 1354.4
+            },
+            {
+                "date": "2026-07-20",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700069",
+                "balance": 4265.28,
+                "paid_in": 0.0,
+                "paid_out": 104.14
+            },
+            {
+                "date": "2026-07-22",
+                "description": "Standing Order - GYM MEMBERSHIP",
+                "type": "SO",
+                "reference": "SO-700070",
+                "balance": 4226.28,
+                "paid_in": 0.0,
+                "paid_out": 39.0
+            },
+            {
+                "date": "2026-07-24",
+                "description": "Cheque Deposit",
+                "type": "CHQ",
+                "reference": "CHQ-700071",
+                "balance": 4479.69,
+                "paid_in": 253.41,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-07-26",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700072",
+                "balance": 4665.48,
+                "paid_in": 185.79,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-07-26",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700073",
+                "balance": 4646.23,
+                "paid_in": 0.0,
+                "paid_out": 19.25
+            },
+            {
+                "date": "2026-07-26",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700074",
+                "balance": 4582.15,
+                "paid_in": 0.0,
+                "paid_out": 64.08
+            },
+            {
+                "date": "2026-07-28",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700075",
+                "balance": 4586.21,
+                "paid_in": 4.06,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-07-28",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700076",
+                "balance": 2752.05,
+                "paid_in": 0.0,
+                "paid_out": 1834.16
+            },
+            {
+                "date": "2026-07-30",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700077",
+                "balance": 2687.13,
+                "paid_in": 0.0,
+                "paid_out": 64.92
+            },
+            {
+                "date": "2026-07-31",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700078",
+                "balance": 2595.76,
+                "paid_in": 0.0,
+                "paid_out": 91.37
+            },
+            {
+                "date": "2026-08-01",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700079",
+                "balance": 607.23,
+                "paid_in": 0.0,
+                "paid_out": 1988.53
+            },
+            {
+                "date": "2026-08-01",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700080",
+                "balance": -694.31,
+                "paid_in": 0.0,
+                "paid_out": 1301.54
+            },
+            {
+                "date": "2026-08-02",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700081",
+                "balance": -717.8,
+                "paid_in": 0.0,
+                "paid_out": 23.49
+            },
+            {
+                "date": "2026-08-02",
+                "description": "Standing Order - GYM MEMBERSHIP",
+                "type": "SO",
+                "reference": "SO-700082",
+                "balance": -817.83,
+                "paid_in": 0.0,
+                "paid_out": 100.03
+            },
+            {
+                "date": "2026-08-04",
+                "description": "Direct Debit - CLEARWATER UTILITIES",
+                "type": "DD",
+                "reference": "DD-700083",
+                "balance": -883.56,
+                "paid_in": 0.0,
+                "paid_out": 65.73
+            },
+            {
+                "date": "2026-08-04",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700084",
+                "balance": -888.42,
+                "paid_in": 0.0,
+                "paid_out": 4.86
+            },
+            {
+                "date": "2026-08-05",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700085",
+                "balance": -895.48,
+                "paid_in": 0.0,
+                "paid_out": 7.06
+            },
+            {
+                "date": "2026-08-06",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700086",
+                "balance": -915.25,
+                "paid_in": 0.0,
+                "paid_out": 19.77
+            },
+            {
+                "date": "2026-08-08",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700087",
+                "balance": -953.75,
+                "paid_in": 0.0,
+                "paid_out": 38.5
+            },
+            {
+                "date": "2026-08-10",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700088",
+                "balance": -1068.51,
+                "paid_in": 0.0,
+                "paid_out": 114.76
+            },
+            {
+                "date": "2026-08-12",
+                "description": "Direct Debit - CLEARWATER UTILITIES",
+                "type": "DD",
+                "reference": "DD-700089",
+                "balance": -1143.62,
+                "paid_in": 0.0,
+                "paid_out": 75.11
+            },
+            {
+                "date": "2026-08-12",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700090",
+                "balance": -1312.16,
+                "paid_in": 0.0,
+                "paid_out": 168.54
+            },
+            {
+                "date": "2026-08-12",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700091",
+                "balance": -462.93,
+                "paid_in": 849.23,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-08-13",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700092",
+                "balance": -468.81,
+                "paid_in": 0.0,
+                "paid_out": 5.88
+            },
+            {
+                "date": "2026-08-14",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700093",
+                "balance": -541.45,
+                "paid_in": 0.0,
+                "paid_out": 72.64
+            },
+            {
+                "date": "2026-08-15",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700094",
+                "balance": -2560.2,
+                "paid_in": 0.0,
+                "paid_out": 2018.75
+            },
+            {
+                "date": "2026-08-15",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700095",
+                "balance": -2569.68,
+                "paid_in": 0.0,
+                "paid_out": 9.48
+            },
+            {
+                "date": "2026-08-16",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700096",
+                "balance": -2584.91,
+                "paid_in": 0.0,
+                "paid_out": 15.23
+            },
+            {
+                "date": "2026-08-16",
+                "description": "Direct Debit - CLEARWATER UTILITIES",
+                "type": "DD",
+                "reference": "DD-700097",
+                "balance": -2630.27,
+                "paid_in": 0.0,
+                "paid_out": 45.36
+            },
+            {
+                "date": "2026-08-16",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700098",
+                "balance": -2661.79,
+                "paid_in": 0.0,
+                "paid_out": 31.52
+            },
+            {
+                "date": "2026-08-17",
+                "description": "Cheque Deposit",
+                "type": "CHQ",
+                "reference": "CHQ-700099",
+                "balance": -2384.16,
+                "paid_in": 277.63,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-08-17",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700100",
+                "balance": -2388.46,
+                "paid_in": 0.0,
+                "paid_out": 4.3
+            },
+            {
+                "date": "2026-08-18",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700101",
+                "balance": -640.75,
+                "paid_in": 1747.71,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-08-19",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700102",
+                "balance": -733.9,
+                "paid_in": 0.0,
+                "paid_out": 93.15
+            },
+            {
+                "date": "2026-08-20",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700103",
+                "balance": -596.21,
+                "paid_in": 137.69,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-08-20",
+                "description": "Direct Debit - CLEARWATER UTILITIES",
+                "type": "DD",
+                "reference": "DD-700104",
+                "balance": -681.67,
+                "paid_in": 0.0,
+                "paid_out": 85.46
+            },
+            {
+                "date": "2026-08-20",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700105",
+                "balance": -695.66,
+                "paid_in": 0.0,
+                "paid_out": 13.99
+            },
+            {
+                "date": "2026-08-21",
+                "description": "Standing Order - GYM MEMBERSHIP",
+                "type": "SO",
+                "reference": "SO-700106",
+                "balance": -785.27,
+                "paid_in": 0.0,
+                "paid_out": 89.61
+            },
+            {
+                "date": "2026-08-21",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700107",
+                "balance": -890.24,
+                "paid_in": 0.0,
+                "paid_out": 104.97
+            },
+            {
+                "date": "2026-08-21",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700108",
+                "balance": 2233.71,
+                "paid_in": 3123.95,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-08-22",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700109",
+                "balance": 2237.72,
+                "paid_in": 4.01,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-08-22",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700110",
+                "balance": 2242.12,
+                "paid_in": 4.4,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-08-22",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700111",
+                "balance": 2203.37,
+                "paid_in": 0.0,
+                "paid_out": 38.75
+            },
+            {
+                "date": "2026-08-23",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700112",
+                "balance": 2207.81,
+                "paid_in": 4.44,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-08-24",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700113",
+                "balance": 1018.54,
+                "paid_in": 0.0,
+                "paid_out": 1189.27
+            },
+            {
+                "date": "2026-08-24",
+                "description": "Standing Order - GYM MEMBERSHIP",
+                "type": "SO",
+                "reference": "SO-700114",
+                "balance": 962.18,
+                "paid_in": 0.0,
+                "paid_out": 56.36
+            },
+            {
+                "date": "2026-08-24",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700115",
+                "balance": 71.95,
+                "paid_in": 0.0,
+                "paid_out": 890.23
+            },
+            {
+                "date": "2026-08-24",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700116",
+                "balance": 76.11,
+                "paid_in": 4.16,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-08-26",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700117",
+                "balance": 5.12,
+                "paid_in": 0.0,
+                "paid_out": 70.99
+            },
+            {
+                "date": "2026-08-28",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700118",
+                "balance": 9.46,
+                "paid_in": 4.34,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-08-28",
+                "description": "Standing Order - GYM MEMBERSHIP",
+                "type": "SO",
+                "reference": "SO-700119",
+                "balance": -91.29,
+                "paid_in": 0.0,
+                "paid_out": 100.75
+            },
+            {
+                "date": "2026-08-29",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700120",
+                "balance": -133.29,
+                "paid_in": 0.0,
+                "paid_out": 42.0
+            },
+            {
+                "date": "2026-08-30",
+                "description": "Direct Debit - CLEARWATER UTILITIES",
+                "type": "DD",
+                "reference": "DD-700121",
+                "balance": -183.35,
+                "paid_in": 0.0,
+                "paid_out": 50.06
+            },
+            {
+                "date": "2026-08-31",
+                "description": "Standing Order - GYM MEMBERSHIP",
+                "type": "SO",
+                "reference": "SO-700122",
+                "balance": -269.35,
+                "paid_in": 0.0,
+                "paid_out": 86.0
+            },
+            {
+                "date": "2026-09-02",
+                "description": "Interest Credit",
+                "type": "INT",
+                "reference": "INT-700123",
+                "balance": -265.05,
+                "paid_in": 4.3,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-09-04",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700124",
+                "balance": -275.68,
+                "paid_in": 0.0,
+                "paid_out": 10.63
+            },
+            {
+                "date": "2026-09-05",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700125",
+                "balance": -1558.71,
+                "paid_in": 0.0,
+                "paid_out": 1283.03
+            },
+            {
+                "date": "2026-09-07",
+                "description": "Direct Debit - CLEARWATER UTILITIES",
+                "type": "DD",
+                "reference": "DD-700126",
+                "balance": -1627.2,
+                "paid_in": 0.0,
+                "paid_out": 68.49
+            },
+            {
+                "date": "2026-09-07",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700127",
+                "balance": -1652.47,
+                "paid_in": 0.0,
+                "paid_out": 25.27
+            },
+            {
+                "date": "2026-09-08",
+                "description": "Standing Order - GYM MEMBERSHIP",
+                "type": "SO",
+                "reference": "SO-700128",
+                "balance": -1717.66,
+                "paid_in": 0.0,
+                "paid_out": 65.19
+            },
+            {
+                "date": "2026-09-08",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700129",
+                "balance": -1796.49,
+                "paid_in": 0.0,
+                "paid_out": 78.83
+            },
+            {
+                "date": "2026-09-09",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700130",
+                "balance": -1893.69,
+                "paid_in": 0.0,
+                "paid_out": 97.2
+            },
+            {
+                "date": "2026-09-10",
+                "description": "Standing Order - GYM MEMBERSHIP",
+                "type": "SO",
+                "reference": "SO-700131",
+                "balance": -1956.86,
+                "paid_in": 0.0,
+                "paid_out": 63.17
+            },
+            {
+                "date": "2026-09-11",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700132",
+                "balance": -1962.43,
+                "paid_in": 0.0,
+                "paid_out": 5.57
+            },
+            {
+                "date": "2026-09-11",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700133",
+                "balance": -1993.0,
+                "paid_in": 0.0,
+                "paid_out": 30.57
+            },
+            {
+                "date": "2026-09-12",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700134",
+                "balance": -2087.15,
+                "paid_in": 0.0,
+                "paid_out": 94.15
+            },
+            {
+                "date": "2026-09-13",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700135",
+                "balance": -2100.35,
+                "paid_in": 0.0,
+                "paid_out": 13.2
+            },
+            {
+                "date": "2026-09-15",
+                "description": "Online Payment - MEADOW HOME STORE",
+                "type": "DEB",
+                "reference": "DEB-700136",
+                "balance": -2147.66,
+                "paid_in": 0.0,
+                "paid_out": 47.31
+            },
+            {
+                "date": "2026-09-16",
+                "description": "Direct Debit - INSURANCE CO",
+                "type": "DD",
+                "reference": "DD-700137",
+                "balance": -2246.94,
+                "paid_in": 0.0,
+                "paid_out": 99.28
+            },
+            {
+                "date": "2026-09-16",
+                "description": "Cheque Deposit",
+                "type": "CHQ",
+                "reference": "CHQ-700138",
+                "balance": -2023.63,
+                "paid_in": 223.31,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-09-16",
+                "description": "Card Purchase - CORNER CAFE",
+                "type": "POS",
+                "reference": "POS-700139",
+                "balance": -2032.94,
+                "paid_in": 0.0,
+                "paid_out": 9.31
+            },
+            {
+                "date": "2026-09-18",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700140",
+                "balance": -2042.98,
+                "paid_in": 0.0,
+                "paid_out": 10.04
+            },
+            {
+                "date": "2026-09-19",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700141",
+                "balance": -2066.17,
+                "paid_in": 0.0,
+                "paid_out": 23.19
+            },
+            {
+                "date": "2026-09-19",
+                "description": "Debit Card - THE DAILY LOAF",
+                "type": "DEB",
+                "reference": "DEB-700142",
+                "balance": -2084.81,
+                "paid_in": 0.0,
+                "paid_out": 18.64
+            },
+            {
+                "date": "2026-09-19",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700143",
+                "balance": -2100.26,
+                "paid_in": 0.0,
+                "paid_out": 15.45
+            },
+            {
+                "date": "2026-09-19",
+                "description": "Salary - MERIDIAN HOLDINGS",
+                "type": "BACS",
+                "reference": "BACS-700144",
+                "balance": -2018.2,
+                "paid_in": 82.06,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-09-19",
+                "description": "Cheque Deposit",
+                "type": "CHQ",
+                "reference": "CHQ-700145",
+                "balance": -1711.01,
+                "paid_in": 307.19,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-09-21",
+                "description": "Cheque Deposit",
+                "type": "CHQ",
+                "reference": "CHQ-700146",
+                "balance": -1501.45,
+                "paid_in": 209.56,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-09-22",
+                "description": "Transfer Out - RENT PAYMENT",
+                "type": "TFR",
+                "reference": "TFR-700147",
+                "balance": -3572.64,
+                "paid_in": 0.0,
+                "paid_out": 2071.19
+            },
+            {
+                "date": "2026-09-22",
+                "description": "Cheque Deposit",
+                "type": "CHQ",
+                "reference": "CHQ-700148",
+                "balance": -3370.41,
+                "paid_in": 202.23,
+                "paid_out": 0.0
+            },
+            {
+                "date": "2026-09-22",
+                "description": "Mobile Payment - RIDESHARE",
+                "type": "DEB",
+                "reference": "DEB-700149",
+                "balance": -3394.91,
+                "paid_in": 0.0,
+                "paid_out": 24.5
+            }
+        ]
+    },
+    "validation_result": {
+        "is_valid": false,
+        "errors": [
+            {
+                "check": "date_range",
+                "transaction_index": 37,
+                "message": "Transaction date 2026-07-01 for row 37 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 38,
+                "message": "Transaction date 2026-07-01 for row 38 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 39,
+                "message": "Transaction date 2026-07-01 for row 39 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 40,
+                "message": "Transaction date 2026-07-02 for row 40 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 41,
+                "message": "Transaction date 2026-07-03 for row 41 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 42,
+                "message": "Transaction date 2026-07-03 for row 42 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 43,
+                "message": "Transaction date 2026-07-05 for row 43 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 44,
+                "message": "Transaction date 2026-07-05 for row 44 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 45,
+                "message": "Transaction date 2026-07-05 for row 45 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 46,
+                "message": "Transaction date 2026-07-05 for row 46 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 47,
+                "message": "Transaction date 2026-07-05 for row 47 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 48,
+                "message": "Transaction date 2026-07-05 for row 48 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 49,
+                "message": "Transaction date 2026-07-07 for row 49 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 50,
+                "message": "Transaction date 2026-07-08 for row 50 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 51,
+                "message": "Transaction date 2026-07-08 for row 51 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 52,
+                "message": "Transaction date 2026-07-09 for row 52 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 53,
+                "message": "Transaction date 2026-07-09 for row 53 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 54,
+                "message": "Transaction date 2026-07-09 for row 54 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 55,
+                "message": "Transaction date 2026-07-10 for row 55 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 56,
+                "message": "Transaction date 2026-07-10 for row 56 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 57,
+                "message": "Transaction date 2026-07-11 for row 57 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 58,
+                "message": "Transaction date 2026-07-11 for row 58 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 59,
+                "message": "Transaction date 2026-07-13 for row 59 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 60,
+                "message": "Transaction date 2026-07-15 for row 60 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 61,
+                "message": "Transaction date 2026-07-15 for row 61 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 62,
+                "message": "Transaction date 2026-07-16 for row 62 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 63,
+                "message": "Transaction date 2026-07-16 for row 63 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 64,
+                "message": "Transaction date 2026-07-17 for row 64 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 65,
+                "message": "Transaction date 2026-07-18 for row 65 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 66,
+                "message": "Transaction date 2026-07-20 for row 66 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 67,
+                "message": "Transaction date 2026-07-20 for row 67 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 68,
+                "message": "Transaction date 2026-07-20 for row 68 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 69,
+                "message": "Transaction date 2026-07-20 for row 69 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 70,
+                "message": "Transaction date 2026-07-22 for row 70 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 71,
+                "message": "Transaction date 2026-07-24 for row 71 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 72,
+                "message": "Transaction date 2026-07-26 for row 72 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 73,
+                "message": "Transaction date 2026-07-26 for row 73 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 74,
+                "message": "Transaction date 2026-07-26 for row 74 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 75,
+                "message": "Transaction date 2026-07-28 for row 75 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 76,
+                "message": "Transaction date 2026-07-28 for row 76 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 77,
+                "message": "Transaction date 2026-07-30 for row 77 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 78,
+                "message": "Transaction date 2026-07-31 for row 78 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 79,
+                "message": "Transaction date 2026-08-01 for row 79 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 80,
+                "message": "Transaction date 2026-08-01 for row 80 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 81,
+                "message": "Transaction date 2026-08-02 for row 81 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 82,
+                "message": "Transaction date 2026-08-02 for row 82 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 83,
+                "message": "Transaction date 2026-08-04 for row 83 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 84,
+                "message": "Transaction date 2026-08-04 for row 84 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 85,
+                "message": "Transaction date 2026-08-05 for row 85 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 86,
+                "message": "Transaction date 2026-08-06 for row 86 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 87,
+                "message": "Transaction date 2026-08-08 for row 87 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 88,
+                "message": "Transaction date 2026-08-10 for row 88 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 89,
+                "message": "Transaction date 2026-08-12 for row 89 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 90,
+                "message": "Transaction date 2026-08-12 for row 90 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 91,
+                "message": "Transaction date 2026-08-12 for row 91 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 92,
+                "message": "Transaction date 2026-08-13 for row 92 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 93,
+                "message": "Transaction date 2026-08-14 for row 93 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 94,
+                "message": "Transaction date 2026-08-15 for row 94 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 95,
+                "message": "Transaction date 2026-08-15 for row 95 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 96,
+                "message": "Transaction date 2026-08-16 for row 96 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 97,
+                "message": "Transaction date 2026-08-16 for row 97 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 98,
+                "message": "Transaction date 2026-08-16 for row 98 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 99,
+                "message": "Transaction date 2026-08-17 for row 99 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 100,
+                "message": "Transaction date 2026-08-17 for row 100 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 101,
+                "message": "Transaction date 2026-08-18 for row 101 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 102,
+                "message": "Transaction date 2026-08-19 for row 102 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 103,
+                "message": "Transaction date 2026-08-20 for row 103 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 104,
+                "message": "Transaction date 2026-08-20 for row 104 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 105,
+                "message": "Transaction date 2026-08-20 for row 105 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 106,
+                "message": "Transaction date 2026-08-21 for row 106 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 107,
+                "message": "Transaction date 2026-08-21 for row 107 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 108,
+                "message": "Transaction date 2026-08-21 for row 108 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 109,
+                "message": "Transaction date 2026-08-22 for row 109 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 110,
+                "message": "Transaction date 2026-08-22 for row 110 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 111,
+                "message": "Transaction date 2026-08-22 for row 111 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 112,
+                "message": "Transaction date 2026-08-23 for row 112 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 113,
+                "message": "Transaction date 2026-08-24 for row 113 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 114,
+                "message": "Transaction date 2026-08-24 for row 114 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 115,
+                "message": "Transaction date 2026-08-24 for row 115 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 116,
+                "message": "Transaction date 2026-08-24 for row 116 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 117,
+                "message": "Transaction date 2026-08-26 for row 117 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 118,
+                "message": "Transaction date 2026-08-28 for row 118 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 119,
+                "message": "Transaction date 2026-08-28 for row 119 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 120,
+                "message": "Transaction date 2026-08-29 for row 120 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 121,
+                "message": "Transaction date 2026-08-30 for row 121 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 122,
+                "message": "Transaction date 2026-08-31 for row 122 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 123,
+                "message": "Transaction date 2026-09-02 for row 123 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 124,
+                "message": "Transaction date 2026-09-04 for row 124 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 125,
+                "message": "Transaction date 2026-09-05 for row 125 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 126,
+                "message": "Transaction date 2026-09-07 for row 126 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 127,
+                "message": "Transaction date 2026-09-07 for row 127 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 128,
+                "message": "Transaction date 2026-09-08 for row 128 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 129,
+                "message": "Transaction date 2026-09-08 for row 129 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 130,
+                "message": "Transaction date 2026-09-09 for row 130 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 131,
+                "message": "Transaction date 2026-09-10 for row 131 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 132,
+                "message": "Transaction date 2026-09-11 for row 132 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 133,
+                "message": "Transaction date 2026-09-11 for row 133 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 134,
+                "message": "Transaction date 2026-09-12 for row 134 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 135,
+                "message": "Transaction date 2026-09-13 for row 135 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 136,
+                "message": "Transaction date 2026-09-15 for row 136 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 137,
+                "message": "Transaction date 2026-09-16 for row 137 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 138,
+                "message": "Transaction date 2026-09-16 for row 138 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 139,
+                "message": "Transaction date 2026-09-16 for row 139 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 140,
+                "message": "Transaction date 2026-09-18 for row 140 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 141,
+                "message": "Transaction date 2026-09-19 for row 141 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 142,
+                "message": "Transaction date 2026-09-19 for row 142 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 143,
+                "message": "Transaction date 2026-09-19 for row 143 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 144,
+                "message": "Transaction date 2026-09-19 for row 144 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 145,
+                "message": "Transaction date 2026-09-19 for row 145 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 146,
+                "message": "Transaction date 2026-09-21 for row 146 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 147,
+                "message": "Transaction date 2026-09-22 for row 147 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 148,
+                "message": "Transaction date 2026-09-22 for row 148 is outside the statement period (2026-06-01 to 2026-06-30)"
+            },
+            {
+                "check": "date_range",
+                "transaction_index": 149,
+                "message": "Transaction date 2026-09-22 for row 149 is outside the statement period (2026-06-01 to 2026-06-30)"
+            }
+        ]
+    },
+    "reflection_result": {
+        "mistake_description": "Transactions extending beyond the printed 'Statement Period' (2026-06-01 to 2026-06-30) up to 2026-09-22 were flagged as out of range, even though they are valid and culminate in the correct closing balance of $-3,394.91.",
+        "correction_rule": "When a bank statement contains transactions that extend beyond the printed 'Statement Period' header, and the final transaction's balance matches the statement's closing balance, the statement period should be expanded or derived from the actual transaction date range (min/max transaction dates) for validation purposes.",
+        "confidence": 0.95
+    },
+    "prompt_versions": {
+        "identity": 1.0,
+        "account": 1.0,
+        "transactions": 1.0,
+        "merge": 1.0,
+        "reflection": 1.0
+    }
+}
