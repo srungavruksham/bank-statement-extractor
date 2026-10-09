@@ -1,13 +1,5 @@
 # Bank Statement Extractor
 
-## A note from me
-
-I want to be honest — my Python skills are not great yet. I got stuck a lot while building this and used AI to help me.
-
-But I didn't just copy and paste. I did all the wiring myself — every file connects to the next because I understood what needed to go where. I understand how each part works, I debugged the issues myself, and I know exactly where to look when something breaks.
-
----
-
 This is a small team of AI agents that reads a bank statement PDF and turns it
 into clean, structured data. It also checks its own work, learns from its
 mistakes, and shows you everything in a simple web page.
